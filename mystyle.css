@@ -1,0 +1,110 @@
+ p.title {
+    
+    text-align: center;
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+    
+  }
+  
+  p.abstract{
+    text-align:center;
+    font-style:italic;
+    color:green;
+    padding-top:10px;
+    padding-right:80px;
+    padding-bottom:10px;
+    padding-left:80px;
+  }
+  
+  
+  
+  div.top{
+    width:40%;
+    float:left;
+    
+  }
+  div.bottom{
+    width:60%;
+    float:left;
+  }
+  div.left{
+    width:40%;
+    float:60%;
+  }
+  div.right{
+    width:40%;
+    float:60%;
+  }
+  
+   .choose {
+    border: solid;
+    border-color: yellowgreen;
+    background-color: #adff2f54;
+  }
+  *{
+  font-size:2rem;
+  }
+  
+  
+  .container {
+                width: 100%;
+            }
+            .block {
+                float: left;
+                width: 40%;
+                border: solid red;
+                margin: 1em;
+            }
+            .block_break {
+                clear: left;
+                border: solid green;
+            }
+            
+            #s007{
+              background-color:yellow;
+              border:soild;
+              border-color:blue;
+            }
+            
+            h1{
+        color:green;
+      }
+      
+            h2{
+        color:purple;
+        
+            }
+        
+        
+        
+      h1{
+        color:green;
+        font-size:1.5em;
+      }
+      
+      h2{
+        color:purple;
+        font-size:1.1em;
+      }
+      
+      /* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+ 
+/* selected link */
+a:active {
+  color: blue;
+}
+      
